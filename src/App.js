@@ -15,7 +15,7 @@ import Contact from './Components/Contact';
 
 function App() {
 
-  const [expanded, setExpanded] = useState(true);
+  const [expanded, setExpanded] = useState(false);
 
   return (
     <>
